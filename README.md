@@ -6,7 +6,7 @@
 
 	$ go get github.com/cavaliercoder/grab
 
-Grab is a Go package for downloading files from the internet with the following
+Grab is a Go package for downloading files from the internet with the following.
 rad features::
 
 * Monitor download progress concurrently
